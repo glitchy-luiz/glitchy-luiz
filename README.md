@@ -1,7 +1,7 @@
 ### Eae 👋
 
 <div align="center">
-  <img src="https://rew.githubusercontent.com/" width="700px" />
+  <img src="https://user-images.githubusercontent.com/84513178/171647367-9ed6ecea-4fcf-4627-829b-c577483868ae.jpg" width="700px" />
 </div>
 
 - 🔭 Estou trabalhando em um jogo de simulação no visual studio, e fazendo uma to do list.
