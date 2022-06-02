@@ -12,3 +12,5 @@
 - 📫 Me contacte por email: luiz.fernandoaragaosouza@gmail.com(posso demorar para ler), e discord: glitchy luiz#6930
 - 😄 Pronomes: Ele
 - ⚡ Fato aleatório: Odeio sexta-feiras
+
+[![glitchy-luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=glitchy-luiz)](https://github.com/glitchy-luiz/github-readme-stats)
