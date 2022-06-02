@@ -1,5 +1,9 @@
 ### Eae 👋
 
+<div align="center">
+  <img src="https://rew.githubusercontent.com/" width="700px" />
+</div>
+
 - 🔭 Estou trabalhando em um jogo de simulação no visual studio, e fazendo uma to do list.
 - 🌱 Estou aprendendo Ejs, js, css, html, c# (e visual basics haha)
 - 👯 No momento não procuro nenhum projeto para colaborar
