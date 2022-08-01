@@ -11,7 +11,7 @@
 - 💬 Me pergunte qualquer coisa relacionado aos meus projetos ou interesses
 - 📫 Me contacte por email: luiz.fernandoaragaosouza@gmail.com(posso demorar para ler), e discord: glitchy luiz#6930
 - 😄 Pronomes: Ele
-- ⚡ Fato aleatório: Odeio sexta-feiras
+- ⚡ Fato aleatório: Odeio sexta-feiras, . ..- / ... . .. / .-.. . .-. / . / . ... -.-. .-. . ...- . .-. / . -- / -.-. --- -.. .. --. --- / -- --- .-. ... .
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
