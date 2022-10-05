@@ -61,3 +61,9 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=glitchy-luiz&&style=flat-square" align="center" />
 </div>  
+
+  <div> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+</div>
