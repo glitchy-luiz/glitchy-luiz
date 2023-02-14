@@ -7,9 +7,9 @@
 - 🔭 Estou trabalhando em um jogo de simulação no visual studio, e fazendo uma to do list.
 - 🌱 Estou aprendendo Ejs, js, css, html, c# (e visual basics haha)
 - 👯 No momento procuro trabalho como desenvolvedor ou designer
-- 🤔 Estou precisando de ajuda com js e c#
+- 🤔 Estou precisando de ajuda com js, c#, python
 - 💬 Me pergunte qualquer coisa relacionado aos meus projetos ou interesses
-- 📫 Me contacte por email: luiz.fernandoaragaosouza@gmail.com(posso demorar para ler), e discord: glitchy luiz#6930
+- 📫 Me contacte por email: luiz.fernandoaragaosouza@gmail.com
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato aleatório: . ..- / ... . .. / .-.. . .-. / . / . ... -.-. .-. . ...- . .-. / . -- / -.-. --- -.. .. --. --- / -- --- .-. ... .
 
