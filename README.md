@@ -59,6 +59,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glitchy-luiz&layout=compact)](https://github.com/glitchy-luiz/github-readme-stats)
 
 <div align="center">
+  <a href="https://linkedin.com/in/luizfernando-souza" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div
+
+
+
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=glitchy-luiz&&style=flat-square" align="center" />
 </div>  
 
