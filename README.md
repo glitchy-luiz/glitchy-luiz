@@ -65,7 +65,7 @@
   <a href="https://instagram.com/luiz_etc" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div
+</div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=glitchy-luiz&&style=flat-square" align="center" />
