@@ -5,9 +5,9 @@
 ### Eae 👋
 
 - 🔭 Estou trabalhando em projetos para celular no ionic e fazendo pequenos jogos na unity.
-- 🌱 Estou aprendendo Ejs, js, css, html, c#, typescript (e visual basics haha)
-- 👯 No momento procuro trabalho como desenvolvedor ou designer
-- 🤔 Estou precisando de ajuda com js, c#, python
+- 🌱 Estou aprendendo JSX, Python, js, css, html, c#, c++ typescript e VB
+- 👯 No momento procuro trabalho como desenvolvedor/cyber security
+- 🤔 Estou precisando de ajuda com c#, python
 - 💬 Me pergunte qualquer coisa relacionado aos meus projetos ou interesses
 - 📫 Me contacte por email: luiz.fernandoaragaosouza@gmail.com
 - 😄 Pronomes: Ele/Dele
