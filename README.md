@@ -4,13 +4,12 @@
 
 ### Eae 👋
 
-- 🔭 Estou trabalhando em projetos para celular no ionic e fazendo pequenos jogos na unity.
-- 🌱 Estou aprendendo JSX, Python, js, css, html, c#, c++ typescript e VB
-- 👯 No momento procuro trabalho como desenvolvedor/cyber security
-- 🤔 Estou precisando de ajuda com c#, python
+- 🔭 Estou trabalhando em APIs REST e FAST, e em projetos de IA
+- 🌱 Conheço Python, js, java, c#, typescript 
+- 👯 Me aprimorando como desenvolvedor/Engenheiro de software
+- 🤔 Atualmente estudando c# e python
 - 💬 Me pergunte qualquer coisa relacionado aos meus projetos ou interesses
 - 📫 Me contacte por email: luiz.fernandoaragaosouza@gmail.com
-- 😄 Pronomes: Ele/Dele
 - ⚡ Fato aleatório: . ..- / ... . .. / .-.. . .-. / . / . ... -.-. .-. . ...- . .-. / . -- / -.-. --- -.. .. --. --- / -- --- .-. ... .
 
 ## Minhas habilidades
